@@ -1,5 +1,5 @@
 {
-    "version":  8,
+    "version":  9,
     "images":  [
                    "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/IMG_4316.jpg",
                    "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/IMG_4322.jpg",
@@ -16,6 +16,7 @@
                    "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/7804b501fc9b90daf7ecb0188bfd89a9a9f73e1db4e4a2c3f09d24bc1cb91e3c.jpeg",
                    "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/07beda9254dda206305ff971d3574528683842bd0e67f7c83ece4fb6a1d3cb7a.jpeg",
                    "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/945bc58a051a7cbe4121fe5e2092af575a7d0c2e737b17e21dc8256bdad1cf1b.jpeg",
-                   "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/8f19d06a5c077049e68c0b7c2e6533c1d4bd6d205e6a978fcfe13b0f05a5b220.jpeg"
+                   "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/8f19d06a5c077049e68c0b7c2e6533c1d4bd6d205e6a978fcfe13b0f05a5b220.jpeg",
+                   "https://raw.githubusercontent.com/crookonoculus/livesocial-karaoke-images/main/images/e4e7abdf5b9d00da7904c4855820a88655ed88cd6ac792e582666a38667af475.jpeg"
                ]
 }
